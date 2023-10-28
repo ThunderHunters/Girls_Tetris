@@ -9,7 +9,7 @@ Features
 
 How to Play
 
-- Run the game by executing `Girls_Tetris_Game.py`.
+- Run the game by executing `Girls_Tetris_Main.py`.
 - Use arrow keys to control tetromino movement.
 - Rotate tetrominos using the up arrow key.
 - Increase the speed by pressing the down arrow key.
