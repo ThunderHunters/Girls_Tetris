@@ -3,8 +3,8 @@ Girls Tetris Game is a Tetris implementation with unique features, designed to p
 
 Features
 
-- **Customizable Tetrominos:** Customize the appearance of tetrominos with your own sprites.
-- **Special Effects:** Enjoy special effects animations for an engaging visual experience.
+- **Customized Tetrominos:** Visually unique tetrominos.
+- **Sound Effects:** Enjoy sounds for an engaging visual experience.
 - **Dynamic Text:** Dynamic and stylish text elements on the screen.
 
 How to Play
